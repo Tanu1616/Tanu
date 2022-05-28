@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanu1616
+- 👋 Hi, I’m @Tanu
 - 👀 I’m interested in learning new technologies and skiils
 - 🌱 I’m currently pursuing MCA from Birla Institute of Technology,Mesra
 - 💞️ I’m looking to collaborate on ...
